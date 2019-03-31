@@ -1,0 +1,5 @@
+2018-02-09 16:47:40,608 - 30-logging.py[line:28] - DEBUG: 中文:this is a logger debug message
+2018-02-09 16:47:40,608 - 30-logging.py[line:29] - INFO: 中文:this is a logger info message
+2018-02-09 16:47:40,608 - 30-logging.py[line:30] - WARNING: 中文:this is a logger warning message
+2018-02-09 16:47:40,608 - 30-logging.py[line:31] - ERROR: 中文:this is a logger error message
+2018-02-09 16:47:40,609 - 30-logging.py[line:32] - CRITICAL: 中文:this is a logger critical message
